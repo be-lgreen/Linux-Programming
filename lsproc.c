@@ -1,3 +1,8 @@
+/*
+ *	신연수(yeonsu)
+ * 	2017-05-08
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
